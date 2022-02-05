@@ -1,4 +1,4 @@
-import chalk from "chalk";
+import chalk from "chalk"; //Se instala e importa el modulo chalk
 
 /* function greet() {    //First Class Objet classic form
     console.log(chalk.red(`Hello`));
